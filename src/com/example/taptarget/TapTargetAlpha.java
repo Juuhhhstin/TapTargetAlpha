@@ -26,7 +26,7 @@ import android.util.Log;
 import android.view.Display;
 
 
-public class TapTarget extends SimpleBaseGameActivity{
+public class TapTargetAlpha extends SimpleBaseGameActivity{
 	// ===========================================================
 	// Constants
 	// ===========================================================
